@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5856px" height="4791px" viewBox="0 0 5856 4791" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="592" height="1007" rx="100"></rect>
+        <rect id="path-3" x="0" y="0" width="592" height="1007" rx="100"></rect>
+        <rect id="path-5" x="0" y="0" width="592" height="1007" rx="100"></rect>
+        <rect id="path-7" x="0" y="0" width="592" height="1007" rx="100"></rect>
+        <rect id="path-9" x="0" y="0" width="592" height="1007" rx="100"></rect>
+        <rect id="path-11" x="0.2373887" y="0" width="274.76001" height="76" rx="5"></rect>
+        <rect id="path-13" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+        <rect id="path-15" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+        <rect id="path-17" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-19" x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-21" x="0.2373887" y="0" width="553.762611" height="115" rx="5"></rect>
+        <rect id="path-23" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+        <rect id="path-25" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+        <rect id="path-27" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-29" x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-31" x="0.1040462" y="0" width="535.895954" height="159" rx="35"></rect>
+        <rect id="path-33" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+        <rect id="path-35" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+        <rect id="path-37" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-39" x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-41" x="0.2373887" y="0" width="380" height="76" rx="5"></rect>
+        <rect id="path-43" x="0.2373887" y="0" width="380" height="76" rx="5"></rect>
+        <rect id="path-45" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+        <rect id="path-47" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+        <rect id="path-49" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-51" x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-53" x="0.2373887" y="0" width="380" height="76" rx="5"></rect>
+        <rect id="path-55" x="0.2373887" y="0" width="427.76001" height="76" rx="5"></rect>
+        <rect id="path-57" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+        <rect id="path-59" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+        <rect id="path-61" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-63" x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+        <rect id="path-65" x="0" y="0" width="438" height="90"></rect>
+        <rect id="path-67" x="0" y="0" width="438" height="364" rx="35"></rect>
+        <rect id="path-69" x="0" y="0" width="438" height="90"></rect>
+        <rect id="path-71" x="0" y="0" width="438" height="364" rx="35"></rect>
+        <rect id="path-73" x="0" y="0" width="438" height="90"></rect>
+        <rect id="path-75" x="0" y="0" width="438" height="364" rx="35"></rect>
+        <rect id="path-77" x="0" y="0" width="438" height="90"></rect>
+        <rect id="path-79" x="0" y="0" width="438" height="364" rx="35"></rect>
+        <rect id="path-81" x="0" y="0" width="438" height="90"></rect>
+        <rect id="path-83" x="0" y="0" width="438" height="364" rx="35"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Flow" transform="translate(900.000000, 188.000000)">
+                <g id="Design-Flow">
+                    <g id="Rectangle-2-Clipped" transform="translate(3678.000000, 1801.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="Rectangle-2" mask="url(#mask-2)" stroke="#979797" stroke-width="2" fill="#FDCAFF">
+                            <rect id="path-1" x="0" y="0" width="592" height="1007" rx="100"></rect>
+                        </g>
+                    </g>
+                    <text id="var-symptoms-=-[" fill="#8B8B8B" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="3791" y="2069">var symptoms = [</tspan>
+                    </text>
+                    <text id="“cannot-drive”," fill="#8B8B8B" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="3791" y="2107">“cannot drive”,</tspan>
+                    </text>
+                    <text id="“paralyzed”," fill="#8B8B8B" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="3791" y="2145">“paralyzed”,</tspan>
+                    </text>
+                    <text id="...." fill="#8B8B8B" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="3791" y="2183">....</tspan>
+                    </text>
+                    <text id="(more-to-come)" fill="#C1C1C1" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="3847" y="2221">(more to come)</tspan>
+                    </text>
+                    <text id="];" fill="#8B8B8B" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="3791" y="2259">];</tspan>
+                    </text>
+                    <text id="At-Home-Visit" fill="#939393" font-family="Avenir-LightOblique, Avenir" font-size="48" font-style="italic" font-weight="300">
+                        <tspan x="3832" y="1912">At-Home Visit</tspan>
+                    </text>
+                    <g id="Rectangle-2-Copy-2-Clipped" transform="translate(2816.000000, 1801.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="path-3"></g>
+                        <g id="Rectangle-2-Copy-2" mask="url(#mask-4)" stroke="#979797" stroke-width="2" fill="#770000">
+                            <rect id="path-3" x="0" y="0" width="592" height="1007" rx="100"></rect>
+                        </g>
+                    </g>
+                    <text id="var-symptoms-=-[" fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2069">var symptoms = [</tspan>
+                    </text>
+                    <text id="&quot;life&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2107">"life",</tspan>
+                    </text>
+                    <text id="&quot;threatening&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2145">"threatening",</tspan>
+                    </text>
+                    <text id="&quot;ambulance&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2183">"ambulance",</tspan>
+                    </text>
+                    <text id="&quot;emergency&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2221">"emergency",</tspan>
+                    </text>
+                    <text id="&quot;heart&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2259">"heart",</tspan>
+                    </text>
+                    <text id="&quot;stroke&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2297">"stroke",</tspan>
+                    </text>
+                    <text id="&quot;fainted&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2335">"fainted",</tspan>
+                    </text>
+                    <text id="&quot;unconscious&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2373">"unconscious",</tspan>
+                    </text>
+                    <text id="&quot;broke&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2411">"broke",</tspan>
+                    </text>
+                    <text id="&quot;fracture&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2449">"fracture",</tspan>
+                    </text>
+                    <text id="&quot;broken&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2487">"broken",</tspan>
+                    </text>
+                    <text id="&quot;seizure&quot;," fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2525">"seizure",</tspan>
+                    </text>
+                    <text id="&quot;faint&quot;" fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2563">"faint"</tspan>
+                    </text>
+                    <text id="];" fill="#D5D5D5" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2929" y="2601">];</tspan>
+                    </text>
+                    <text id="Emergency-Room" fill="#D5D5D5" font-family="Avenir-LightOblique, Avenir" font-size="48" font-style="italic" font-weight="300">
+                        <tspan x="2930" y="1912">Emergency Room</tspan>
+                    </text>
+                    <g id="Rectangle-2-Copy-Clipped" transform="translate(1912.000000, 1801.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="path-5"></g>
+                        <g id="Rectangle-2-Copy" mask="url(#mask-6)" stroke="#979797" stroke-width="2" fill="#B7FFA9">
+                            <rect id="path-5" x="0" y="0" width="592" height="1007" rx="100"></rect>
+                        </g>
+                    </g>
+                    <text id="var-symptoms-=-[" fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2069">var symptoms = [</tspan>
+                    </text>
+                    <text id="“pneumonia”," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2107">“pneumonia”,</tspan>
+                    </text>
+                    <text id="&quot;std&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2145">"std",</tspan>
+                    </text>
+                    <text id="&quot;cyst&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2183">"cyst",</tspan>
+                    </text>
+                    <text id="&quot;chickenpox”," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2221">"chickenpox”,</tspan>
+                    </text>
+                    <text id="&quot;kidney-stone&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2259">"kidney stone",</tspan>
+                    </text>
+                    <text id="&quot;stomach-flu&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2297">"stomach flu",</tspan>
+                    </text>
+                    <text id="&quot;shingles&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2335">"shingles",</tspan>
+                    </text>
+                    <text id="&quot;insomnia&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2373">"insomnia",</tspan>
+                    </text>
+                    <text id="&quot;arthritis&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2411">"arthritis",</tspan>
+                    </text>
+                    <text id="&quot;sleep-apnea&quot;," fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2449">"sleep apnea",</tspan>
+                    </text>
+                    <text id="...." fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2487">....</tspan>
+                    </text>
+                    <text id="];" fill="#7F7E7E" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="2025" y="2525">];</tspan>
+                    </text>
+                    <text id="Primary-Care" fill="#A2A2A2" font-family="Avenir-LightOblique, Avenir" font-size="48" font-style="italic" font-weight="300">
+                        <tspan x="2073" y="1912">Primary Care</tspan>
+                    </text>
+                    <g id="Rectangle-2-Copy-3-Clipped" transform="translate(0.000000, 1801.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="path-7"></g>
+                        <g id="Rectangle-2-Copy-3" mask="url(#mask-8)" stroke="#979797" stroke-width="2" fill="#A5E2FF">
+                            <rect id="path-7" x="0" y="0" width="592" height="1007" rx="100"></rect>
+                        </g>
+                    </g>
+                    <text id="var-symptoms-=-[" fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2069">var symptoms = [</tspan>
+                    </text>
+                    <text id="&quot;cold&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2107">"cold",</tspan>
+                    </text>
+                    <text id="&quot;cough&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2145">"cough",</tspan>
+                    </text>
+                    <text id="&quot;allergy&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2183">"allergy",</tspan>
+                    </text>
+                    <text id="&quot;sore-throat&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2221">"sore throat",</tspan>
+                    </text>
+                    <text id="&quot;runny-nose&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2259">"runny nose",</tspan>
+                    </text>
+                    <text id="&quot;itchy-eyes&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2297">"itchy eyes",</tspan>
+                    </text>
+                    <text id="&quot;watery-eyes&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2335">"watery eyes",</tspan>
+                    </text>
+                    <text id="&quot;sneezing&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2373">"sneezing",</tspan>
+                    </text>
+                    <text id="&quot;stuffy&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2411">"stuffy",</tspan>
+                    </text>
+                    <text id="&quot;blocked&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2449">"blocked",</tspan>
+                    </text>
+                    <text id="&quot;congestion&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2487">"congestion",</tspan>
+                    </text>
+                    <text id="&quot;sinus-pain&quot;," fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2525">"sinus pain",</tspan>
+                    </text>
+                    <text id="...." fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2563">....</tspan>
+                    </text>
+                    <text id="];" fill="#626262" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="116" y="2601">];</tspan>
+                    </text>
+                    <text id="Health-eXpress" fill="#7C7C7C" font-family="Avenir-LightOblique, Avenir" font-size="48" font-style="italic" font-weight="300">
+                        <tspan x="131" y="1912">Health eXpress</tspan>
+                    </text>
+                    <g id="Rectangle-2-Copy-4-Clipped" transform="translate(935.000000, 1801.000000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <g id="path-9"></g>
+                        <g id="Rectangle-2-Copy-4" mask="url(#mask-10)" stroke="#979797" stroke-width="2" fill="#FFB45A">
+                            <rect id="path-9" x="0" y="0" width="592" height="1007" rx="100"></rect>
+                        </g>
+                    </g>
+                    <text id="var-symptoms-=-[" fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2069">var symptoms = [</tspan>
+                    </text>
+                    <text id="&quot;uti&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2107">"uti",</tspan>
+                    </text>
+                    <text id="&quot;rash&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2145">"rash",</tspan>
+                    </text>
+                    <text id="&quot;sprain&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2183">"sprain",</tspan>
+                    </text>
+                    <text id="&quot;strain&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2221">"strain",</tspan>
+                    </text>
+                    <text id="&quot;cut&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2259">"cut",</tspan>
+                    </text>
+                    <text id="&quot;scrape&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2297">"scrape",</tspan>
+                    </text>
+                    <text id="&quot;strep&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2335">"strep",</tspan>
+                    </text>
+                    <text id="&quot;mono&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2373">"mono",</tspan>
+                    </text>
+                    <text id="&quot;urinalysis&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2411">"urinalysis",</tspan>
+                    </text>
+                    <text id="&quot;pregnancy&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2449">"pregnancy",</tspan>
+                    </text>
+                    <text id="&quot;std&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2487">"std",</tspan>
+                    </text>
+                    <text id="&quot;physical&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2525">"physical",</tspan>
+                    </text>
+                    <text id="&quot;cholesterol&quot;," fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2563">"cholesterol",</tspan>
+                    </text>
+                    <text id="];" fill="#676767" font-family="AndaleMono, Andale Mono" font-size="34" font-weight="normal">
+                        <tspan x="1048" y="2601">];</tspan>
+                    </text>
+                    <text id="Express-Care" fill="#8B8B8B" font-family="Avenir-LightOblique, Avenir" font-size="48" font-style="italic" font-weight="300">
+                        <tspan x="1084" y="1912">Express Care</tspan>
+                    </text>
+                    <text id="session.userZip" fill="#586EFF" font-family="AndaleMono, Andale Mono" font-size="48" font-weight="normal">
+                        <tspan x="2994" y="1229">session.userZip</tspan>
+                    </text>
+                    <g id="Start" transform="translate(1900.000000, 0.000000)">
+                        <rect id="bg" fill="#FF2C51" x="0" y="0" width="269" height="99" rx="49.5"></rect>
+                        <g id="Group" transform="translate(52.000000, 22.000000)" font-size="50" font-family="Arial-BoldMT, Arial" fill="#FFFFFF" font-weight="bold">
+                            <text id="START">
+                                <tspan x="0" y="45">START</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="Introduction" fill="#000000" font-family="Avenir-Light, Avenir" font-size="48" font-weight="300">
+                        <tspan x="1907.18" y="177">Introduction</tspan>
+                    </text>
+                    <text id="Prompt" fill="#000000" font-family="Avenir-Light, Avenir" font-size="48" font-weight="300">
+                        <tspan x="1955.304" y="1109">Prompt</tspan>
+                    </text>
+                    <g id="Message" transform="translate(1674.000000, 392.000000)">
+                        <g id="BG-Clipped" transform="translate(94.000000, 0.000000)">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <g id="path-11"></g>
+                            <g id="BG" mask="url(#mask-12)" stroke="#D8D9DA" stroke-width="4" fill="#ECECEC">
+                                <rect id="path-11" x="0.2373887" y="0" width="274.76001" height="76" rx="5"></rect>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(125.000000, 14.000000)" font-size="34" font-family=".SFNSDisplay-Regular, .SF NS Display" fill="#000000" font-weight="normal">
+                            <text id="Good-morning!">
+                                <tspan x="0" y="33">Good morning!</tspan>
+                            </text>
+                        </g>
+                        <g id="chabot_avatar">
+                            <g id="chabot">
+                                <circle id="Oval-9" fill="#036069" cx="27" cy="27" r="27"></circle>
+                                <g id="chatbot" transform="translate(9.000000, 7.000000)">
+                                    <ellipse id="Circle" fill="#059BA8" cx="17.8858334" cy="1.94736842" rx="1.963344" ry="1.94736842"></ellipse>
+                                    <g id="Head-Clipped" transform="translate(3.000000, 8.000000)">
+                                        <mask id="mask-14" fill="white">
+                                            <use xlink:href="#path-13"></use>
+                                        </mask>
+                                        <g id="path-13"></g>
+                                        <g id="Head" mask="url(#mask-14)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-13" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Mouth-Clipped" transform="translate(9.000000, 25.000000)">
+                                        <mask id="mask-16" fill="white">
+                                            <use xlink:href="#path-15"></use>
+                                        </mask>
+                                        <g id="path-15"></g>
+                                        <g id="Mouth" mask="url(#mask-16)" stroke="#059BA8" stroke-width="2.05128205" fill="#036069">
+                                            <rect id="path-15" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+                                        </g>
+                                    </g>
+                                    <path d="M18,4.18421053 L18,8.23684211" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M17.5128205,27.1486018 L17.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M13.5128205,27.1486018 L13.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M21.5128205,27.1486018 L21.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <g id="Ear-Clipped" transform="translate(31.000000, 18.000000)">
+                                        <mask id="mask-18" fill="white">
+                                            <use xlink:href="#path-17"></use>
+                                        </mask>
+                                        <g id="path-17"></g>
+                                        <g id="Ear" mask="url(#mask-18)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-17" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Ear-Clipped" transform="translate(0.000000, 18.000000)">
+                                        <mask id="mask-20" fill="white">
+                                            <use xlink:href="#path-19"></use>
+                                        </mask>
+                                        <g id="path-19"></g>
+                                        <g id="Ear" mask="url(#mask-20)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <g transform="translate(1.820562, 5.500000) scale(-1, 1) translate(-1.820562, -5.500000) translate(-0.179438, 0.000000)" id="path-19">
+                                                <rect x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="10.9555274" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="24.5397454" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Message" transform="translate(1674.000000, 242.000000)">
+                        <g id="BG-Clipped" transform="translate(94.000000, 0.000000)">
+                            <mask id="mask-22" fill="white">
+                                <use xlink:href="#path-21"></use>
+                            </mask>
+                            <g id="path-21"></g>
+                            <g id="BG" mask="url(#mask-22)" stroke="#D8D9DA" stroke-width="4" fill="#ECECEC">
+                                <rect id="path-21" x="0.2373887" y="0" width="553.762611" height="115" rx="5"></rect>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(125.000000, 14.000000)" font-size="34" font-family=".SFNSDisplay-Regular, .SF NS Display" fill="#000000" font-weight="normal">
+                            <text id="Please-call-911-if-this-is-a-medical">
+                                <tspan x="0" y="33">Please call 911 if this is a medical</tspan>
+                            </text>
+                            <text id="emergency.">
+                                <tspan x="0" y="73">emergency.</tspan>
+                            </text>
+                        </g>
+                        <g id="chabot_avatar">
+                            <g id="chabot">
+                                <circle id="Oval-9" fill="#036069" cx="27" cy="27" r="27"></circle>
+                                <g id="chatbot" transform="translate(9.000000, 8.000000)">
+                                    <ellipse id="Circle" fill="#059BA8" cx="17.8858334" cy="1.94736842" rx="1.963344" ry="1.94736842"></ellipse>
+                                    <g id="Head-Clipped" transform="translate(3.000000, 8.000000)">
+                                        <mask id="mask-24" fill="white">
+                                            <use xlink:href="#path-23"></use>
+                                        </mask>
+                                        <g id="path-23"></g>
+                                        <g id="Head" mask="url(#mask-24)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-23" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Mouth-Clipped" transform="translate(9.000000, 25.000000)">
+                                        <mask id="mask-26" fill="white">
+                                            <use xlink:href="#path-25"></use>
+                                        </mask>
+                                        <g id="path-25"></g>
+                                        <g id="Mouth" mask="url(#mask-26)" stroke="#059BA8" stroke-width="2.05128205" fill="#036069">
+                                            <rect id="path-25" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+                                        </g>
+                                    </g>
+                                    <path d="M18,4.18421053 L18,8.23684211" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M17.5128205,27.1486018 L17.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M13.5128205,27.1486018 L13.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M21.5128205,27.1486018 L21.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <g id="Ear-Clipped" transform="translate(31.000000, 18.000000)">
+                                        <mask id="mask-28" fill="white">
+                                            <use xlink:href="#path-27"></use>
+                                        </mask>
+                                        <g id="path-27"></g>
+                                        <g id="Ear" mask="url(#mask-28)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-27" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Ear-Clipped" transform="translate(0.000000, 18.000000)">
+                                        <mask id="mask-30" fill="white">
+                                            <use xlink:href="#path-29"></use>
+                                        </mask>
+                                        <g id="path-29"></g>
+                                        <g id="Ear" mask="url(#mask-30)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <g transform="translate(1.820562, 5.500000) scale(-1, 1) translate(-1.820562, -5.500000) translate(-0.179438, 0.000000)" id="path-29">
+                                                <rect x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="10.9555274" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="24.5397454" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Message" transform="translate(1674.000000, 503.000000)">
+                        <g id="BG-Clipped" transform="translate(99.000000, 0.000000)">
+                            <mask id="mask-32" fill="white">
+                                <use xlink:href="#path-31"></use>
+                            </mask>
+                            <g id="path-31"></g>
+                            <g id="BG" mask="url(#mask-32)" stroke="#D8D9DA" stroke-width="4" fill="#ECECEC">
+                                <rect id="path-31" x="0.1040462" y="0" width="535.895954" height="159" rx="35"></rect>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(128.000000, 14.000000)" font-size="34" font-family=".SFNSDisplay-Regular, .SF NS Display" fill="#000000" font-weight="normal">
+                            <text id="I’m-CareBot.-I’m-here-to-guide-you">
+                                <tspan x="0.468208" y="33.673913">I’m CareBot. I’m here to guide you</tspan>
+                            </text>
+                            <text id="to-the-best-healthcare-decisions">
+                                <tspan x="0.468208" y="73.673913">to the best healthcare decisions</tspan>
+                            </text>
+                            <text id="based-on-your-personal-needs.">
+                                <tspan x="0.468208" y="113.673913">based on your personal needs.</tspan>
+                            </text>
+                        </g>
+                        <g id="chabot_avatar">
+                            <g id="chabot">
+                                <circle id="Oval-9" fill="#036069" cx="27" cy="27" r="27"></circle>
+                                <g id="chatbot" transform="translate(9.000000, 6.000000)">
+                                    <ellipse id="Circle" fill="#059BA8" cx="17.8858334" cy="1.94736842" rx="1.963344" ry="1.94736842"></ellipse>
+                                    <g id="Head-Clipped" transform="translate(3.000000, 8.000000)">
+                                        <mask id="mask-34" fill="white">
+                                            <use xlink:href="#path-33"></use>
+                                        </mask>
+                                        <g id="path-33"></g>
+                                        <g id="Head" mask="url(#mask-34)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-33" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Mouth-Clipped" transform="translate(9.000000, 25.000000)">
+                                        <mask id="mask-36" fill="white">
+                                            <use xlink:href="#path-35"></use>
+                                        </mask>
+                                        <g id="path-35"></g>
+                                        <g id="Mouth" mask="url(#mask-36)" stroke="#059BA8" stroke-width="2.05128205" fill="#036069">
+                                            <rect id="path-35" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+                                        </g>
+                                    </g>
+                                    <path d="M18,4.18421053 L18,8.23684211" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M17.5128205,27.1486018 L17.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M13.5128205,27.1486018 L13.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M21.5128205,27.1486018 L21.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <g id="Ear-Clipped" transform="translate(31.000000, 18.000000)">
+                                        <mask id="mask-38" fill="white">
+                                            <use xlink:href="#path-37"></use>
+                                        </mask>
+                                        <g id="path-37"></g>
+                                        <g id="Ear" mask="url(#mask-38)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-37" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Ear-Clipped" transform="translate(0.000000, 18.000000)">
+                                        <mask id="mask-40" fill="white">
+                                            <use xlink:href="#path-39"></use>
+                                        </mask>
+                                        <g id="path-39"></g>
+                                        <g id="Ear" mask="url(#mask-40)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <g transform="translate(1.820562, 5.500000) scale(-1, 1) translate(-1.820562, -5.500000) translate(-0.179438, 0.000000)" id="path-39">
+                                                <rect x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="10.9555274" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="24.5397454" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="arrow" transform="translate(2038.000000, 1170.000000) rotate(90.000000) translate(-2038.000000, -1170.000000) translate(1598.500000, 1153.500000)">
+                        <path d="M0.985319888,16.5 L226.712625,16.5" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M680,14.1666666 L878.727306,14.1666667" id="Connection-Copy" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M228.48587,32.6807176 C227.516427,33.2132141 226.730538,32.7458438 226.730538,31.6542167 L226.730538,1.36480682 C226.730538,0.265389532 227.517282,-0.19372073 228.48587,0.338305895 L256.171224,15.5453416 C257.140667,16.0778381 257.139812,16.9416553 256.171224,17.4736819 L228.48587,32.6807176 L228.48587,32.6807176 Z" id="Triangle" fill="#FF2B52"></path>
+                    </g>
+                    <g id="arrow-copy" transform="translate(2265.000000, 1202.000000)">
+                        <path d="M0.982145134,16 L581.500028,16" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M583.806232,27.8424733 C582.808677,28.3136522 582,27.8004455 582,26.699654 L582,1.31665183 C582,0.214311315 582.815746,-0.294007688 583.806232,0.173832518 L611.289271,13.1550082 C612.286825,13.626187 612.279757,14.3934575 611.289271,14.8612977 L583.806232,27.8424733 L583.806232,27.8424733 Z" id="Triangle" fill="#FF2B52"></path>
+                    </g>
+                    <g id="arrow-copy-2" transform="translate(3981.841627, 1691.241333) rotate(89.000000) translate(-3981.841627, -1691.241333) translate(3905.841627, 1676.741333)">
+                        <path d="M0.01336497,16 L120.500028,16" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M122.806232,27.8424733 C121.808677,28.3136522 121,27.8004455 121,26.699654 L121,1.31665183 C121,0.214311315 121.815746,-0.294007688 122.806232,0.173832518 L150.289271,13.1550082 C151.286825,13.626187 151.279757,14.3934575 150.289271,14.8612977 L122.806232,27.8424733 L122.806232,27.8424733 Z" id="Triangle" fill="#FF2B52"></path>
+                    </g>
+                    <g id="arrow-copy-3" transform="translate(3107.841627, 1693.241333) rotate(89.000000) translate(-3107.841627, -1693.241333) translate(3031.841627, 1678.741333)">
+                        <path d="M0.01336497,16 L120.500028,16" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M122.806232,27.8424733 C121.808677,28.3136522 121,27.8004455 121,26.699654 L121,1.31665183 C121,0.214311315 121.815746,-0.294007688 122.806232,0.173832518 L150.289271,13.1550082 C151.286825,13.626187 151.279757,14.3934575 150.289271,14.8612977 L122.806232,27.8424733 L122.806232,27.8424733 Z" id="Triangle" fill="#FF2B52"></path>
+                    </g>
+                    <g id="arrow-copy-4" transform="translate(2248.841627, 1693.241333) rotate(89.000000) translate(-2248.841627, -1693.241333) translate(2172.841627, 1678.741333)">
+                        <path d="M0.01336497,16 L120.500028,16" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M122.806232,27.8424733 C121.808677,28.3136522 121,27.8004455 121,26.699654 L121,1.31665183 C121,0.214311315 121.815746,-0.294007688 122.806232,0.173832518 L150.289271,13.1550082 C151.286825,13.626187 151.279757,14.3934575 150.289271,14.8612977 L122.806232,27.8424733 L122.806232,27.8424733 Z" id="Triangle" fill="#FF2B52"></path>
+                    </g>
+                    <g id="arrow-copy-5" transform="translate(1227.841627, 1691.241333) rotate(89.000000) translate(-1227.841627, -1691.241333) translate(1151.841627, 1676.741333)">
+                        <path d="M0.01336497,16 L120.500028,16" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M122.806232,27.8424733 C121.808677,28.3136522 121,27.8004455 121,26.699654 L121,1.31665183 C121,0.214311315 121.815746,-0.294007688 122.806232,0.173832518 L150.289271,13.1550082 C151.286825,13.626187 151.279757,14.3934575 150.289271,14.8612977 L122.806232,27.8424733 L122.806232,27.8424733 Z" id="Triangle" fill="#FF2B52"></path>
+                    </g>
+                    <g id="arrow-copy-6" transform="translate(295.841627, 1691.241333) rotate(89.000000) translate(-295.841627, -1691.241333) translate(219.841627, 1676.741333)">
+                        <path d="M0.01336497,16 L120.500028,16" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                        <path d="M122.806232,27.8424733 C121.808677,28.3136522 121,27.8004455 121,26.699654 L121,1.31665183 C121,0.214311315 121.815746,-0.294007688 122.806232,0.173832518 L150.289271,13.1550082 C151.286825,13.626187 151.279757,14.3934575 150.289271,14.8612977 L122.806232,27.8424733 L122.806232,27.8424733 Z" id="Triangle" fill="#FF2B52"></path>
+                    </g>
+                    <g id="Message" transform="translate(1674.000000, 1180.000000)">
+                        <g id="BG-Clipped" transform="translate(94.000000, 0.000000)">
+                            <mask id="mask-42" fill="white">
+                                <use xlink:href="#path-41"></use>
+                            </mask>
+                            <g id="path-41"></g>
+                            <g id="BG" mask="url(#mask-42)" stroke="#D8D9DA" stroke-width="4" fill="#ECECEC">
+                                <rect id="path-41" x="0.2373887" y="0" width="380" height="76" rx="5"></rect>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(129.000000, 14.000000)" font-size="34" font-family=".SFNSDisplay-Regular, .SF NS Display" fill="#000000" font-weight="normal">
+                            <text id="What-is-your-zip-code?">
+                                <tspan x="0" y="33">What is your zip code?</tspan>
+                            </text>
+                        </g>
+                        <g id="BG-Copy-Clipped" transform="translate(94.000000, 0.000000)">
+                            <mask id="mask-44" fill="white">
+                                <use xlink:href="#path-43"></use>
+                            </mask>
+                            <g id="path-43"></g>
+                            <g id="BG-Copy" mask="url(#mask-44)" stroke="#D8D9DA" stroke-width="4" fill="#ECECEC">
+                                <rect id="path-43" x="0.2373887" y="0" width="380" height="76" rx="5"></rect>
+                            </g>
+                        </g>
+                        <g id="Text-Copy" transform="translate(129.000000, 14.000000)" font-size="34" font-family=".SFNSDisplay-Regular, .SF NS Display" fill="#000000" font-weight="normal">
+                            <text id="What-is-your-zip-code?">
+                                <tspan x="0" y="33">What is your zip code?</tspan>
+                            </text>
+                        </g>
+                        <g id="chabot_avatar">
+                            <g id="chabot">
+                                <circle id="Oval-9" fill="#036069" cx="27" cy="27" r="27"></circle>
+                                <g id="chatbot" transform="translate(9.000000, 7.000000)">
+                                    <ellipse id="Circle" fill="#059BA8" cx="17.8858334" cy="1.94736842" rx="1.963344" ry="1.94736842"></ellipse>
+                                    <g id="Head-Clipped" transform="translate(3.000000, 8.000000)">
+                                        <mask id="mask-46" fill="white">
+                                            <use xlink:href="#path-45"></use>
+                                        </mask>
+                                        <g id="path-45"></g>
+                                        <g id="Head" mask="url(#mask-46)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-45" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Mouth-Clipped" transform="translate(9.000000, 25.000000)">
+                                        <mask id="mask-48" fill="white">
+                                            <use xlink:href="#path-47"></use>
+                                        </mask>
+                                        <g id="path-47"></g>
+                                        <g id="Mouth" mask="url(#mask-48)" stroke="#059BA8" stroke-width="2.05128205" fill="#036069">
+                                            <rect id="path-47" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+                                        </g>
+                                    </g>
+                                    <path d="M18,4.18421053 L18,8.23684211" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M17.5128205,27.1486018 L17.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M13.5128205,27.1486018 L13.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M21.5128205,27.1486018 L21.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <g id="Ear-Clipped" transform="translate(31.000000, 18.000000)">
+                                        <mask id="mask-50" fill="white">
+                                            <use xlink:href="#path-49"></use>
+                                        </mask>
+                                        <g id="path-49"></g>
+                                        <g id="Ear" mask="url(#mask-50)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-49" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Ear-Clipped" transform="translate(0.000000, 18.000000)">
+                                        <mask id="mask-52" fill="white">
+                                            <use xlink:href="#path-51"></use>
+                                        </mask>
+                                        <g id="path-51"></g>
+                                        <g id="Ear" mask="url(#mask-52)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <g transform="translate(1.820562, 5.500000) scale(-1, 1) translate(-1.820562, -5.500000) translate(-0.179438, 0.000000)" id="path-51">
+                                                <rect x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="10.9555274" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="24.5397454" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Message-Copy" transform="translate(1674.000000, 1302.000000)">
+                        <g id="BG-Clipped" transform="translate(94.000000, 0.000000)">
+                            <mask id="mask-54" fill="white">
+                                <use xlink:href="#path-53"></use>
+                            </mask>
+                            <g id="path-53"></g>
+                            <g id="BG" mask="url(#mask-54)" stroke="#D8D9DA" stroke-width="4" fill="#ECECEC">
+                                <rect id="path-53" x="0.2373887" y="0" width="380" height="76" rx="5"></rect>
+                            </g>
+                        </g>
+                        <g id="Text" transform="translate(129.000000, 14.000000)" font-size="34" font-family=".SFNSDisplay-Regular, .SF NS Display" fill="#000000" font-weight="normal">
+                            <text id="What-is-your-zip-code?">
+                                <tspan x="0" y="33">What is your zip code?</tspan>
+                            </text>
+                        </g>
+                        <g id="BG-Copy-Clipped" transform="translate(94.000000, 0.000000)">
+                            <mask id="mask-56" fill="white">
+                                <use xlink:href="#path-55"></use>
+                            </mask>
+                            <g id="path-55"></g>
+                            <g id="BG-Copy" mask="url(#mask-56)" stroke="#D8D9DA" stroke-width="4" fill="#ECECEC">
+                                <rect id="path-55" x="0.2373887" y="0" width="427.76001" height="76" rx="5"></rect>
+                            </g>
+                        </g>
+                        <g id="Text-Copy" transform="translate(129.000000, 14.000000)" font-size="34" font-family=".SFNSDisplay-Regular, .SF NS Display" fill="#000000" font-weight="normal">
+                            <text id="What-are-your-symptoms?">
+                                <tspan x="0" y="33">What are your symptoms?</tspan>
+                            </text>
+                        </g>
+                        <g id="chabot_avatar">
+                            <g id="chabot">
+                                <circle id="Oval-9" fill="#036069" cx="27" cy="27" r="27"></circle>
+                                <g id="chatbot" transform="translate(9.000000, 6.000000)">
+                                    <ellipse id="Circle" fill="#059BA8" cx="17.8858334" cy="1.94736842" rx="1.963344" ry="1.94736842"></ellipse>
+                                    <g id="Head-Clipped" transform="translate(3.000000, 8.000000)">
+                                        <mask id="mask-58" fill="white">
+                                            <use xlink:href="#path-57"></use>
+                                        </mask>
+                                        <g id="path-57"></g>
+                                        <g id="Head" mask="url(#mask-58)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-57" x="0" y="0" width="30.1399836" height="29.8947368" rx="4.87433359"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Mouth-Clipped" transform="translate(9.000000, 25.000000)">
+                                        <mask id="mask-60" fill="white">
+                                            <use xlink:href="#path-59"></use>
+                                        </mask>
+                                        <g id="path-59"></g>
+                                        <g id="Mouth" mask="url(#mask-60)" stroke="#059BA8" stroke-width="2.05128205" fill="#036069">
+                                            <rect id="path-59" x="0" y="0.9677734" width="17.4047793" height="8.40064762" rx="4.20032381"></rect>
+                                        </g>
+                                    </g>
+                                    <path d="M18,4.18421053 L18,8.23684211" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M17.5128205,27.1486018 L17.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M13.5128205,27.1486018 L13.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <path d="M21.5128205,27.1486018 L21.5128205,33.2162204" id="Line" stroke="#059BA8" stroke-width="1.02564103"></path>
+                                    <g id="Ear-Clipped" transform="translate(31.000000, 18.000000)">
+                                        <mask id="mask-62" fill="white">
+                                            <use xlink:href="#path-61"></use>
+                                        </mask>
+                                        <g id="path-61"></g>
+                                        <g id="Ear" mask="url(#mask-62)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <rect id="path-61" x="0.9943423" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Ear-Clipped" transform="translate(0.000000, 18.000000)">
+                                        <mask id="mask-64" fill="white">
+                                            <use xlink:href="#path-63"></use>
+                                        </mask>
+                                        <g id="path-63"></g>
+                                        <g id="Ear" mask="url(#mask-64)" stroke="#059BA8" stroke-width="2.05128205" fill="#059BA8">
+                                            <g transform="translate(1.820562, 5.500000) scale(-1, 1) translate(-1.820562, -5.500000) translate(-0.179438, 0.000000)" id="path-63">
+                                                <rect x="0" y="0.6315789" width="3.8205613" height="10.1052632"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="10.9555274" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                    <ellipse id="Eye" stroke="#059BA8" stroke-width="1.02564103" fill="#036069" cx="24.5397454" cy="17.7894737" rx="2.97154768" ry="2.94736842"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Button-Bottom" transform="translate(77.000000, 3507.000000)">
+                        <g id="Bottom-Button">
+                            <g id="Button-bg-Clipped">
+                                <mask id="mask-66" fill="white">
+                                    <use xlink:href="#path-65"></use>
+                                </mask>
+                                <g id="path-65"></g>
+                                <g id="Button-bg" mask="url(#mask-66)" stroke="#D8D9DA" stroke-width="4" fill="#FFFFFF">
+                                    <rect id="path-65" x="0" y="0" width="438" height="90"></rect>
+                                </g>
+                            </g>
+                            <text id="Select" fill="#0084FF" font-family=".SFNSDisplay-Regular, .SF NS Display" font-size="32" font-weight="normal">
+                                <tspan x="176.26875" y="57">Select</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="BG-Clipped" transform="translate(77.000000, 3145.000000)">
+                        <mask id="mask-68" fill="white">
+                            <use xlink:href="#path-67"></use>
+                        </mask>
+                        <g id="path-67"></g>
+                        <g id="BG" mask="url(#mask-68)" stroke="#D8D9DA" stroke-width="4" fill="#6C6C6C">
+                            <rect id="path-67" x="0" y="0" width="438" height="364" rx="35"></rect>
+                        </g>
+                    </g>
+                    <text id="Health-Express" fill="#FFFFFF" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="195" y="3335">Health Express</tspan>
+                    </text>
+                    <g id="Button-Bottom" transform="translate(1013.000000, 3505.000000)">
+                        <g id="Bottom-Button">
+                            <g id="Button-bg-Clipped">
+                                <mask id="mask-70" fill="white">
+                                    <use xlink:href="#path-69"></use>
+                                </mask>
+                                <g id="path-69"></g>
+                                <g id="Button-bg" mask="url(#mask-70)" stroke="#D8D9DA" stroke-width="4" fill="#FFFFFF">
+                                    <rect id="path-69" x="0" y="0" width="438" height="90"></rect>
+                                </g>
+                            </g>
+                            <text id="Select" fill="#0084FF" font-family=".SFNSDisplay-Regular, .SF NS Display" font-size="32" font-weight="normal">
+                                <tspan x="176.26875" y="57">Select</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="BG-Clipped" transform="translate(1013.000000, 3143.000000)">
+                        <mask id="mask-72" fill="white">
+                            <use xlink:href="#path-71"></use>
+                        </mask>
+                        <g id="path-71"></g>
+                        <g id="BG" mask="url(#mask-72)" stroke="#D8D9DA" stroke-width="4" fill="#6C6C6C">
+                            <rect id="path-71" x="0" y="0" width="438" height="364" rx="35"></rect>
+                        </g>
+                    </g>
+                    <text id="Express-Care" fill="#FFFFFF" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="1139" y="3333">Express Care</tspan>
+                    </text>
+                    <g id="Button-Bottom" transform="translate(3757.000000, 3508.000000)">
+                        <g id="Bottom-Button">
+                            <g id="Button-bg-Clipped">
+                                <mask id="mask-74" fill="white">
+                                    <use xlink:href="#path-73"></use>
+                                </mask>
+                                <g id="path-73"></g>
+                                <g id="Button-bg" mask="url(#mask-74)" stroke="#D8D9DA" stroke-width="4" fill="#FFFFFF">
+                                    <rect id="path-73" x="0" y="0" width="438" height="90"></rect>
+                                </g>
+                            </g>
+                            <text id="Select" fill="#0084FF" font-family=".SFNSDisplay-Regular, .SF NS Display" font-size="32" font-weight="normal">
+                                <tspan x="176.26875" y="57">Select</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="BG-Clipped" transform="translate(3755.000000, 3146.000000)">
+                        <mask id="mask-76" fill="white">
+                            <use xlink:href="#path-75"></use>
+                        </mask>
+                        <g id="path-75"></g>
+                        <g id="BG" mask="url(#mask-76)" stroke="#D8D9DA" stroke-width="4" fill="#6C6C6C">
+                            <rect id="path-75" x="0" y="0" width="438" height="364" rx="35"></rect>
+                        </g>
+                    </g>
+                    <text id="In-Home-Visit" fill="#FFFFFF" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="3878" y="3336">In-Home Visit</tspan>
+                    </text>
+                    <g id="Button-Bottom" transform="translate(1977.000000, 3507.000000)">
+                        <g id="Bottom-Button">
+                            <g id="Button-bg-Clipped">
+                                <mask id="mask-78" fill="white">
+                                    <use xlink:href="#path-77"></use>
+                                </mask>
+                                <g id="path-77"></g>
+                                <g id="Button-bg" mask="url(#mask-78)" stroke="#D8D9DA" stroke-width="4" fill="#FFFFFF">
+                                    <rect id="path-77" x="0" y="0" width="438" height="90"></rect>
+                                </g>
+                            </g>
+                            <text id="Select" fill="#0084FF" font-family=".SFNSDisplay-Regular, .SF NS Display" font-size="32" font-weight="normal">
+                                <tspan x="176.26875" y="57">Select</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="BG-Clipped" transform="translate(1977.000000, 3145.000000)">
+                        <mask id="mask-80" fill="white">
+                            <use xlink:href="#path-79"></use>
+                        </mask>
+                        <g id="path-79"></g>
+                        <g id="BG" mask="url(#mask-80)" stroke="#D8D9DA" stroke-width="4" fill="#6C6C6C">
+                            <rect id="path-79" x="0" y="0" width="438" height="364" rx="35"></rect>
+                        </g>
+                    </g>
+                    <text id="Primary-Care" fill="#FFFFFF" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="2101.994" y="3335">Primary Care</tspan>
+                    </text>
+                    <text id="Physician" fill="#FFFFFF" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="2127.615" y="3381">Physician</tspan>
+                    </text>
+                    <g id="Button-Bottom" transform="translate(2878.000000, 3506.000000)">
+                        <g id="Bottom-Button">
+                            <g id="Button-bg-Clipped">
+                                <mask id="mask-82" fill="white">
+                                    <use xlink:href="#path-81"></use>
+                                </mask>
+                                <g id="path-81"></g>
+                                <g id="Button-bg" mask="url(#mask-82)" stroke="#D8D9DA" stroke-width="4" fill="#FFFFFF">
+                                    <rect id="path-81" x="0" y="0" width="438" height="90"></rect>
+                                </g>
+                            </g>
+                            <text id="Select" fill="#0084FF" font-family=".SFNSDisplay-Regular, .SF NS Display" font-size="32" font-weight="normal">
+                                <tspan x="176.26875" y="57">Select</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="BG-Clipped" transform="translate(2878.000000, 3143.000000)">
+                        <mask id="mask-84" fill="white">
+                            <use xlink:href="#path-83"></use>
+                        </mask>
+                        <g id="path-83"></g>
+                        <g id="BG" mask="url(#mask-84)" stroke="#D8D9DA" stroke-width="4" fill="#6C6C6C">
+                            <rect id="path-83" x="0" y="0" width="438" height="364" rx="35"></rect>
+                        </g>
+                    </g>
+                    <text id="Emergency" fill="#FFFFFF" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="3011.789" y="3333">Emergency</tspan>
+                    </text>
+                    <text id="Room" fill="#FFFFFF" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="3049.039" y="3379">Room</tspan>
+                    </text>
+                    <image id="express-clinic-logo" x="1039" y="3714" width="385" height="92" xlink:href="data:image/png;base64,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"></image>
+                    <image id="health-express-logo" x="193" y="3719" width="207" height="90" xlink:href="data:image/png;base64,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"></image>
+                    <text id="Primary-Care-Physician" fill="#000000" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="2036.189" y="3753">Primary Care Physician</tspan>
+                    </text>
+                    <text id="In-Home-Visit" fill="#000000" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="3879.793" y="3754">In-Home Visit</tspan>
+                    </text>
+                    <text id="Emergency-Room" fill="#000000" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300">
+                        <tspan x="2969.408" y="3751">Emergency Room</tspan>
+                    </text>
+                    <g id="End" transform="translate(1900.000000, 4164.000000)">
+                        <rect id="bg" fill="#FF2C51" x="0" y="0" width="269" height="99" rx="49.5"></rect>
+                        <g id="Group" transform="translate(82.000000, 22.000000)" font-size="50" font-family="Arial-BoldMT, Arial" fill="#FFFFFF" font-weight="bold">
+                            <text id="END">
+                                <tspan x="0" y="45">END</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <path d="M294.5,1615 L3973.5,1615" id="Connection" stroke="#FF2C51" stroke-width="7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
