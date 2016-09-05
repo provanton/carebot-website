@@ -1,2 +1,2 @@
 # carebot-website
-Website for CareBot
+Website for CareBot Info
