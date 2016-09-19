@@ -2479,12 +2479,10 @@
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		padding-left: 5em;
+		padding-right: 5em;
 	}
 
-		ul li {
-			padding-left: 0.5em;
-		}
 
 		ul.alt {
 			list-style: none;
@@ -3833,3 +3831,15 @@
       width: 25%;
       margin: 15px;
     }
+
+    #motive-list {
+      margin-left: 20%;
+      margin-right: 20%;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+      text-align: left;
+    }
+
