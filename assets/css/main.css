@@ -3807,6 +3807,21 @@
       height: 80%;
     }
 
+    img[src="images/luispic.png"] {
+      width: 50%;
+      height: 50%;
+    }
+
+    img[src="images/twilio.png"] {
+        width: 50%;
+        height: 50%;
+    }
+
+    img[src="images/skype.png"] {
+        width: 80%;
+        height: 50%;
+    }
+
     /* blue text color */
     #chatbot {
       color: #ABF8FE;
