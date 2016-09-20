@@ -3802,8 +3802,8 @@
       border-radius: 100%;
     }
 
-    img[src="images/Flow.svg"] {
-      width: 100%;
+    img[src="images/Artboard.png"] {
+      width: 90%;
       height: 80%;
     }
 
@@ -3832,7 +3832,7 @@
       margin: 15px;
     }
 
-    #motive-list {
+    .custom-list {
       margin-left: 20%;
       margin-right: 20%;
       padding: 0;
@@ -3841,5 +3841,10 @@
       font: inherit;
       vertical-align: baseline;
       text-align: left;
+    }
+
+    .caption {
+      font-size: 60%;
+      font-style: italic;
     }
 
